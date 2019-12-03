@@ -1,2 +1,3 @@
 # gallery-modal
-app test 
+for front-end test skills
+# developer: tran.nham
